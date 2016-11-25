@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.0.1 (swiftlang-800.0.58.6 clang-800.0.42.1)"
+options: "08a69a821a1b017aed6a6064a89deb6e"
+build_time: [533316060, 40103000]
+inputs:
+  "/Users/Shinkangsan/Desktop/MY_TESTS/AutoLayoutDemo/AutoLayoutDemo/ViewController.swift": [533281528, 0]
+  "/Users/Shinkangsan/Desktop/MY_TESTS/AutoLayoutDemo/AutoLayoutDemo/AppDelegate.swift": [533281528, 0]
